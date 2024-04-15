@@ -1,4 +1,4 @@
-package org.commandLine;
+package org.commandline;
 
 import java.util.Scanner;
 

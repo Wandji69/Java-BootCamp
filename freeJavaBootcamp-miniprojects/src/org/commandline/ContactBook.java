@@ -1,4 +1,4 @@
-package org.commandLine;
+package org.commandline;
 
 public class ContactBook {
 	

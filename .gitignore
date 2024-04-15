@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Exclude sub-project Folders and files
+/src/ADS-with-Java/
